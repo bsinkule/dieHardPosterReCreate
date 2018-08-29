@@ -1,0 +1,50 @@
+.wrapper {
+    background-color: rgb(187, 65, 65);
+    border: 20px solid tan;
+    height: 100%;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cir {
+    background-color: black;
+    color: rgb(187, 65, 65);
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 25px;
+    width: 30px;
+    text-align: center;
+    margin: 5px;
+}
+
+.lobby {
+    background-color: black;
+    color: rgb(187, 65, 65);
+    border-radius: 50%;
+    font-size: 7px;
+    padding-top: 17px;
+    padding-bottom: 14px;
+    padding-right: 8px;
+    padding-left: 8px;
+    margin-right: 4px;
+}
+
+.die {
+    color: tan;
+    font-size: 27px;
+    font-family: "Montserrat";
+    margin-bottom: 20px;
+}
+
+/* img {
+    margin-top: 20px;
+} */
